@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://mknapp360:Kingsbridge12!@cluster0-wbjnv.mongodb.net/ContactKeeper?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
